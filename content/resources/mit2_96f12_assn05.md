@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 558e1b5d-4b0a-a751-63c3-7ffc40a81b1c
 resourcetype: Document
 title: SUL Case Study
 uid: 6b0b0e65-cbbd-7edb-2d02-e983a3582644

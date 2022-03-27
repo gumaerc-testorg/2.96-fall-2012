@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1c089e00-90e2-3bb8-e2ef-514b2ba2f49d
 resourcetype: Document
 title: Presenting Business Opportunities
 uid: 0e1d0e2c-4e20-a482-ccff-bee2c6ae3217

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ea04dae6-8d49-85b5-8c84-037b202b3ac7
 resourcetype: Document
 title: 2.96, Quiz Questions Fall 2011
 uid: 657ad3e7-7ebd-0bff-3cea-5f6503c59f23

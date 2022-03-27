@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ea04dae6-8d49-85b5-8c84-037b202b3ac7
 resourcetype: Other
 title: MIT2_96F12_qs2Q3CF.xlsx
 uid: 53dfc697-27ef-7114-3832-c50bc3c582e0

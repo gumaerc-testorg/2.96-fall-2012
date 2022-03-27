@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 558e1b5d-4b0a-a751-63c3-7ffc40a81b1c
 resourcetype: Document
 title: Ratio Analysis Group Assignment
 uid: 9f297cf3-1909-2252-3b39-b4edf38ff804

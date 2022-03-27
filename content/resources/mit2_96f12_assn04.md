@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 558e1b5d-4b0a-a751-63c3-7ffc40a81b1c
 resourcetype: Document
 title: Self-Unloader Dry Bulk Ships Case Study & Questions
 uid: c9d7f857-5f7c-e363-9770-34561f3a7b67
