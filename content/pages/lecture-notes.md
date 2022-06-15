@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and cases for the
+  course, along with lecture notes for selected lectures and context statements and
+  references for guest lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,7 +38,7 @@ Introduction and Group Assignment
 {{< tdopen >}}
 
 
-[Introduction and Group Assignment (PDF)]({{< baseurl >}}/resources/mit2_96f12_lec01)
+{{% resource_link 97df2b38-4ef1-f1f3-cfef-8298f10d59f8 "Introduction and Group Assignment (PDF)" %}}
 
 Guest lecture: "The Zipcar Case Study." _Derby Management_. \[This lecture addresses how an entrepreneur can raise venture capital along with ideas about sales and marketing\].
 
@@ -71,7 +74,7 @@ Guest lecture: Derby, Jack. "The Roles of Business Planning for Successful Busin
 Financials I
 {{< tdclose >}}
 {{< tdopen >}}
-[Financials I (PDF)]({{< baseurl >}}/resources/mit2_96f12_lec03)
+{{% resource_link b36f916e-cee7-8f13-7958-baf50b648656 "Financials I (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +98,7 @@ Guest lecture: "Just What is Marketing." _Derby Management_, 2012. \[This lectur
 Financials II
 {{< tdclose >}}
 {{< tdopen >}}
-[Financials II (PDF)]({{< baseurl >}}/resources/mit2_96f12_lec05)
+{{% resource_link 7ee84421-328e-8e13-b36a-813e59e11246 "Financials II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +122,7 @@ Guest lecture (cont.): "Just What is Marketing." _Derby Management_, 2012. \[Thi
 Financials III
 {{< tdclose >}}
 {{< tdopen >}}
-[Financials III (PDF)]({{< baseurl >}}/resources/mit2_96f12_lec07)
+{{% resource_link 1b89e961-3cb7-02cc-c546-04567974894f "Financials III (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +266,7 @@ Guest lecture: Marano, John. "Vascular Insights." _ClariVein_, 2012. \[This lect
 HP Printer Case
 {{< tdclose >}}
 {{< tdopen >}}
-[HP Printer Case (PDF)]({{< baseurl >}}/resources/mit2_96f12_lec19)
+{{% resource_link de0ae049-ec78-229e-eea8-2bd049366618 "HP Printer Case (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +278,7 @@ HP Printer Case
 Strategic Planning of R&D
 {{< tdclose >}}
 {{< tdopen >}}
-[Strategic Planning of R&D (PDF)]({{< baseurl >}}/resources/mit2_96f12_lec20)
+{{% resource_link 223fdaa1-fdaa-e379-8513-5fda52f3dd96 "Strategic Planning of R&D (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

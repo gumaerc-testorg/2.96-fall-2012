@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by case and lecture topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -61,7 +62,7 @@ Steenburgh, Thomas, Jill Avery, et al. "[HubSpot: Inbound Marketing and Web 2.0]
 Financial I
 {{< tdclose >}}
 {{< tdopen >}}
-Lynch, Merrill. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Understanding Financial Reports." (PDF)](https://web.sonoma.edu/users/s/stanny/_static/MLunderstandingfinancial.pdf) Merrill Lynch, Pierce, Fenner & Smith Inc., Report: L–10–03, 2003.
+Lynch, Merrill. ["Understanding Financial Reports." (PDF)](https://web.sonoma.edu/users/s/stanny/_static/MLunderstandingfinancial.pdf) Merrill Lynch, Pierce, Fenner & Smith Inc., Report: L–10–03, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Lynch, Merrill. [![This resource may not render correctly in a screen reader.](/
 Sales and Marketing I
 {{< tdclose >}}
 {{< tdopen >}}
-Weiss, Abbott. ["Presenting Business Opportunities." (PDF)]({{< baseurl >}}/resources/mit2_96f12_read01)
+Weiss, Abbott. {{% resource_link 0e1d0e2c-4e20-a482-ccff-bee2c6ae3217 "\"Presenting Business Opportunities.\" (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

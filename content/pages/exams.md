@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains quiz questions and solutions for Fall 2012. Quiz
+  questions and solutions from Fall 2011 are also provided for review purposes.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -12,22 +14,22 @@ This page contains quiz questions and solutions for Fall 2012. Quiz questions an
 Fall 2011
 ---------
 
-[Quiz questions (PDF)]({{< baseurl >}}/resources/mit2_96f12_quiz11q)
+{{% resource_link 657ad3e7-7ebd-0bff-3cea-5f6503c59f23 "Quiz questions (PDF)" %}}
 
-[Quiz solutions (PDF)]({{< baseurl >}}/resources/mit2_96f12_quiz11s)
+{{% resource_link 637177fa-87e0-d5aa-2d90-5acfc155c318 "Quiz solutions (PDF)" %}}
 
 Fall 2012
 ---------
 
-[Quiz questions & solutions (PDF)]({{< baseurl >}}/resources/mit2_96f12_quiz12qs1)
+{{% resource_link 41ae44f1-b02b-9df2-92b7-c25dd4a2895a "Quiz questions & solutions (PDF)" %}}
 
 Reference files (Contains background calculations for quiz solutions)
 ---------------------------------------------------------------------
 
-[Balance Sheet 1 (XLSX)]({{< baseurl >}}/resources/mit2_96f12_qs2q3bs)
+{{% resource_link 2c74fb55-2884-1a45-66b5-a584929a389d "Balance Sheet 1 (XLSX)" %}}
 
-[Cash Flow]({{< baseurl >}}/resources/mit2_96f12_qs2q3cf) [(XLSX)]({{< baseurl >}}/resources/mit2_96f12_qs2q3bs)
+{{% resource_link 53dfc697-27ef-7114-3832-c50bc3c582e0 "Cash Flow" %}} {{% resource_link 2c74fb55-2884-1a45-66b5-a584929a389d "(XLSX)" %}}
 
-[Income Statement]({{< baseurl >}}/resources/mit2_96f12_qs2q3is) [(XLSX)]({{< baseurl >}}/resources/mit2_96f12_qs2q3bs)
+{{% resource_link 45aeb8e6-b953-30e2-a7e1-574751706f54 "Income Statement" %}} {{% resource_link 2c74fb55-2884-1a45-66b5-a584929a389d "(XLSX)" %}}
 
-[Balance Sheet 2]({{< baseurl >}}/resources/mit2_96f12_qs2q4) [(XLSX)]({{< baseurl >}}/resources/mit2_96f12_qs2q3bs)
+{{% resource_link e7a8cf4a-9c43-5798-c681-964c5ae71048 "Balance Sheet 2" %}} {{% resource_link 2c74fb55-2884-1a45-66b5-a584929a389d "(XLSX)" %}}
