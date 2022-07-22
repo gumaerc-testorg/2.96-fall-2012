@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course assignments, including a problem set
+  with solutions, case studies, and group assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 558e1b5d-4b0a-a751-63c3-7ffc40a81b1c
 ---
@@ -54,9 +59,9 @@ Financials I
 {{< tdopen >}}
 
 
-[Problem Set 1 Question (PDF)]({{< baseurl >}}/resources/mit2_96f12_psetq01)
+{{% resource_link ce5e6953-b2d6-0120-9ea0-0ffd7797cfc3 "Problem Set 1 Question (PDF)" %}}
 
-[Problem Set 1 Solution (PDF)]({{< baseurl >}}/resources/mit2_96f12_psets01)
+{{% resource_link 81684c54-6e26-cd2b-c592-f003a75aba7f "Problem Set 1 Solution (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -96,7 +101,7 @@ Sales and Marketing II
 {{< tdopen >}}
 
 
-[Ratio Analysis Group (PDF)]({{< baseurl >}}/resources/mit2_96f12_assn01)
+{{% resource_link eeea6226-0e31-6824-cc33-5ff75e70ff37 "Ratio Analysis Group (PDF)" %}}
 
 Prelude Case Study & Questions: \[Complete "Prelude Corporation" Reading first\]
 
@@ -122,7 +127,7 @@ Financials III
 
 Project Progress Report : Each group must be prepared to give a short presentation about your business plan. The purpose of this presentation is to update the instructors and the rest of the class on the progress of your plan. By now you should have a solid business idea.
 
-[Presenting Business Opportunities (PDF)]({{< baseurl >}}/resources/mit2_96f12_assn02) \[We are looking for you to sell your idea to us in a short period of time; don't worry yet about all the details of your final plan/presentation.\]
+{{% resource_link 220aba77-e88d-af6d-315e-8bc3668a392d "Presenting Business Opportunities (PDF)" %}} \[We are looking for you to sell your idea to us in a short period of time; don't worry yet about all the details of your final plan/presentation.\]
 
 
 {{< tdclose >}}
@@ -138,9 +143,9 @@ Intellectual Property and Licensing
 {{< tdopen >}}
 
 
-[SUL Part 1 (PDF)]({{< baseurl >}}/resources/mit2_96f12_assn04), [Part 2 (PDF)]({{< baseurl >}}/resources/mit2_96f12_assn05)
+{{% resource_link c9d7f857-5f7c-e363-9770-34561f3a7b67 "SUL Part 1 (PDF)" %}}, {{% resource_link 6b0b0e65-cbbd-7edb-2d02-e983a3582644 "Part 2 (PDF)" %}}
 
-[HP Case Study (PDF)]({{< baseurl >}}/resources/mit2_96f12_assn03)
+{{% resource_link 80948f4e-f7a3-fff0-cc9f-ab791ec72d61 "HP Case Study (PDF)" %}}
 
 \[Complete "Hewlett-Packard" Reading first\]
 
@@ -345,7 +350,7 @@ None
 Ethics
 {{< tdclose >}}
 {{< tdopen >}}
-[Ethics (PDF)]({{< baseurl >}}/resources/mit2_96f12_assn06)
+{{% resource_link 9f297cf3-1909-2252-3b39-b4edf38ff804 "Ethics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
