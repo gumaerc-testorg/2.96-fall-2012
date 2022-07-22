@@ -5,6 +5,7 @@ file: /courses/2-96-management-in-engineering-fall-2012/6b0b0e65cbbd7edb2d02e983
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: SUL Case Study
 uid: 6b0b0e65-cbbd-7edb-2d02-e983a3582644
 ---
 This resource contains information regarding SUL case study.
-

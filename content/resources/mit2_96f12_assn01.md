@@ -5,6 +5,7 @@ file: /courses/2-96-management-in-engineering-fall-2012/eeea62260e316824cc335ff7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Ratio Analysis Group Assignment
 uid: eeea6226-0e31-6824-cc33-5ff75e70ff37
 ---
 This resource contains information regarding ratio analysis group assignment.
-

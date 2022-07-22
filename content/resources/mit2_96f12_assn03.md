@@ -6,6 +6,7 @@ file: /courses/2-96-management-in-engineering-fall-2012/80948f4ef7a3fff0cc9fab79
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: HP Printer Case Study & Questions
 uid: 80948f4e-f7a3-fff0-cc9f-ab791ec72d61
 ---
 This resource contains information regarding HP printer case study & questions.
-

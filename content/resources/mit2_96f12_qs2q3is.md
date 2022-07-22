@@ -6,6 +6,7 @@ file: /courses/2-96-management-in-engineering-fall-2012/45aeb8e6b95330e2a7e15747
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_96F12_qs2Q3IS.xlsx
 uid: 45aeb8e6-b953-30e2-a7e1-574751706f54
 ---
 This resource contains information regarding background calculations for quiz solutions.
-
