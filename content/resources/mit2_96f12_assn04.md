@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding self-unloader.
-file: /courses/2-96-management-in-engineering-fall-2012/c9d7f8575f7ce363977034561f3a7b67_MIT2_96F12_assn04.pdf
+file: /ol-ocw-studio-app/courses/2-96-management-in-engineering-fall-2012/c9d7f8575f7ce363977034561f3a7b67_MIT2_96F12_assn04.pdf
 file_size: 54441
 file_type: application/pdf
 learning_resource_types:
