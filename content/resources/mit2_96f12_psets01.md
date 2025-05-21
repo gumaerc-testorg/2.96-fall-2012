@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set solution 1.
-file: /ol-ocw-studio-app/courses/2-96-management-in-engineering-fall-2012/81684c546e26cd2bc592f003a75aba7f_MIT2_96F12_psets01.pdf
+file: /courses/2-96-management-in-engineering-fall-2012/81684c546e26cd2bc592f003a75aba7f_MIT2_96F12_psets01.pdf
 file_size: 556530
 file_type: application/pdf
 learning_resource_types:

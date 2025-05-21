@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding presenting business opportunities.
-file: /ol-ocw-studio-app/courses/2-96-management-in-engineering-fall-2012/220aba77e88daf6d315e8bc3668a392d_MIT2_96F12_assn02.pdf
+file: /courses/2-96-management-in-engineering-fall-2012/220aba77e88daf6d315e8bc3668a392d_MIT2_96F12_assn02.pdf
 file_size: 101783
 file_type: application/pdf
 learning_resource_types:
