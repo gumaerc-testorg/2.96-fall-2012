@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding ratio analysis group assignment.
-file: /courses/2-96-management-in-engineering-fall-2012/eeea62260e316824cc335ff75e70ff37_MIT2_96F12_assn01.pdf
+file: /ol-ocw-studio-app/courses/2-96-management-in-engineering-fall-2012/eeea62260e316824cc335ff75e70ff37_MIT2_96F12_assn01.pdf
 file_size: 117071
 file_type: application/pdf
 learning_resource_types:
